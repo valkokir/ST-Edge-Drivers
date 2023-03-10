@@ -4,6 +4,7 @@ List of Channels I have enrolled in:
 Test Environment
 
 [philh30](https://callaway.smartthings.com/channels/c09d2a68-e32c-4366-a4fc-ea4731b96ec3/)
+
 [github]()Masquerade Z-Wave, others
 
 [Mariano](https://callaway.smartthings.com/channels/c8bb99e1-04a3-426b-9d94-2d260134d624/)
@@ -25,5 +26,5 @@ Zigbee Aqara
 [Brbeaird](https://callaway.smartthings.com/channels/bc45b8db-a92b-4215-8c36-d62fc68145fc)
 [MyQ](https://github.com/brbeaird/SmartThings-MyQ-Edge)
 
-[TAustin]()
+[TAustin](https://callaway.smartthings.com/channels/42512f35-e905-416d-8696-479587f23fe2)
 [API Browser](https://c31c-96-8-248-85.ngrok.io/),etc
