@@ -4,7 +4,7 @@ List of Channels I have enrolled in:
 Test Environment
 
 [philh30](https://callaway.smartthings.com/channels/c09d2a68-e32c-4366-a4fc-ea4731b96ec3/) Many
-<br>[github](https://github.com/philh30/ST-Edge-Drivers)Masquerade Z-Wave, others
+<br>[github](https://github.com/philh30/ST-Edge-Drivers) Masquerade Z-Wave, others
 
 [Mariano](https://callaway.smartthings.com/channels/c8bb99e1-04a3-426b-9d94-2d260134d624/)
 <br>Many
@@ -16,14 +16,14 @@ Test Environment
 <br>Zibee Sensors Edge drivers
 
 [AwfullySmart Drivers](https://callaway.smartthings.com/channels/e74fd832-373d-4ac4-bebf-d37c486fc89c)
-Tasmota Edge
+<br>Tasmota Edge
 
 [obmaz channel](https://callaway.smartthings.com/channels/699fefe6-7b99-40b2-acfd-662ed510a84d)
-Zigbee Aqara
-[obmaz github](https://github.com/obmaz/smartthings_edge_driver)
+<br>Zigbee Aqara
+<br>[obmaz github](https://github.com/obmaz/smartthings_edge_driver)
 
 [Brbeaird](https://callaway.smartthings.com/channels/bc45b8db-a92b-4215-8c36-d62fc68145fc)
-[MyQ](https://github.com/brbeaird/SmartThings-MyQ-Edge)
+<br>[MyQ](https://github.com/brbeaird/SmartThings-MyQ-Edge)
 
 [TAustin](https://callaway.smartthings.com/channels/42512f35-e905-416d-8696-479587f23fe2)
 <br>[API Browser](https://c31c-96-8-248-85.ngrok.io/),etc
